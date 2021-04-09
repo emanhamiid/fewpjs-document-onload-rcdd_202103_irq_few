@@ -1,5 +1,5 @@
 // Your code goes here
-let text =document.
+let text =document.getElementById('id')
 document.addEventListener("DOMContentLoaded", function() {
   console.log("The DOM has loaded");
 });
