@@ -2,8 +2,7 @@
 
 document.addEventListener("DOMContentLoaded", function() {
 
-  text.innerText=("The DOM has loaded");
-
+ document.getElementById("myAnchor").innerHTML = "W3Schools";
 });
 // console.log(
 //   "This console.log() fires when index.js loads - before DOMContentLoaded is triggered"
