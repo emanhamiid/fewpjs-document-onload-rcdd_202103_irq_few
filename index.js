@@ -2,7 +2,7 @@
 let text =document.getElementById('text');
 document.addEventListener("DOMContentLoaded", function() {
 
-  text.innerText
+  text.innerText=
   console.log("The DOM has loaded");
 });
 // console.log(
